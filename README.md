@@ -12,5 +12,7 @@
 - SIAM UQ 
 
 ## Publications 
-1. V. Deundyak, D. Leonov, A. Senchukova. Symbolic calculation and invertibility of convolution operators on the infinite dihedral group. Mathematical Physics and Computer Modeling, 2020, 23(3).
-2. S. Springer, A. Glielmo, A. Senchukova, T. Kauppi, J. Suuronen, L. Roininen, H. Haario, A. Hauptmann. Reconstruction and segmentation from sparse sequential X-ray measurements of wood logs. Applied Mathematics for Modern Challenges, 2023, 1(1): 1-20. doi: 10.3934/ammc.2023002.
+1. V. Deundyak, D. Leonov, __A. Senchukova__. Symbolic calculation and invertibility of convolution operators on the infinite dihedral group. Mathematical Physics and Computer Modeling, 2020, 23(3).
+2. S. Springer, A. Glielmo, __A. Senchukova__, T. Kauppi, J. Suuronen, L. Roininen, H. Haario, A. Hauptmann. Reconstruction and segmentation from sparse sequential X-ray measurements of wood logs. Applied Mathematics for Modern Challenges, 2023, 1(1): 1-20. doi: 10.3934/ammc.2023002.
+3. __A. Senchukova__, J, Suuronen, J. Heikkinen, L. Roininen. Geometry parameter estimation for sparse X-ray log imaging. Journal of Mathematical Imaging and Vision, 2024, 66(2): 154-166.
+4. __A. Senchukova__, F. Uribe, L. Roininen. Bayesian inversion with Student's t priors based on Gaussian scale mixtures. arXiv, 2024.
