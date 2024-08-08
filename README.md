@@ -1,9 +1,9 @@
 # Data Scientist
 
 ## Education 
-PhD in Computational Science | LUT University, Finland (defending the doctoral thesis in October 2024)
-MSc in Computational Engineering | LUT University, Finland (July 2020)
-BSc in Applied Mathematics and Informatics | Southern Federal University, Russia (June 2018)
+- PhD in Computational Science | LUT University, Finland (defending the doctoral thesis in October 2024)
+- MSc in Computational Engineering | LUT University, Finland (July 2020)
+- BSc in Applied Mathematics and Informatics | Southern Federal University, Russia (June 2018)
 
 ## Work experience 
 **Junior Researcher @ LUT University (_January 2021 - Present_)**
