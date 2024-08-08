@@ -1,6 +1,6 @@
 # Data Scientist
 
-[GitHub](https://github.com/AngelinaSen) | ![Google Scholar](/assets/img/googlescholar.png) [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ)
+[GitHub](https://github.com/AngelinaSen) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ) | [LinkedIn](https://www.linkedin.com/in/senchukova/)
 
 ## Education 
 PhD in Computational Science | LUT University, Finland (defending the doctoral thesis in October 2024)
