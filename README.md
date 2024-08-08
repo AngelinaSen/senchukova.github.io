@@ -1,4 +1,4 @@
-# Data Scientist
+# Researcher / Data Scientist
 
 [GitHub](https://github.com/AngelinaSen) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ) | [LinkedIn](https://www.linkedin.com/in/senchukova/)
 
