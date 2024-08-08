@@ -1,15 +1,16 @@
 # Data Scientist
 
 ## Education 
-- PhD in Computational Science | LUT University, Finland (defending the doctoral thesis in October 2024)
-- MSc in Computational Engineering | LUT University, Finland (July 2020)
-- BSc in Applied Mathematisc and Informatics | Southern Federal University, Russia (June 2018)
+PhD in Computational Science | LUT University, Finland (defending the doctoral thesis in October 2024)
+MSc in Computational Engineering | LUT University, Finland (July 2020)
+BSc in Applied Mathematisc and Informatics | Southern Federal University, Russia (June 2018)
 
 ## Work experience 
-** Junior Researcher @ LUT University (_January 2021 - Present_) **
+**Junior Researcher @ LUT University (_January 2021 - Present_)**
 
-## Talks and Meeetings
-- SIAM UQ 
+## Talks and Meetings
+- Participant/Poster @ Satellite workshop to International Society for Bayesian Analysis (ISBA) world meeting, Lugano, Switzerland (_June 25-28, 2024_)
+- [Talk](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78220) @ SIAM Conference on Uncertainty Quantification (UQ24), Trieste, Italy (_February 27-March 1, 2024_)
 
 ## Publications 
 1. V. Deundyak, D. Leonov, __A. Senchukova__. Symbolic calculation and invertibility of convolution operators on the infinite dihedral group. Mathematical Physics and Computer Modeling, 2020, 23(3).
