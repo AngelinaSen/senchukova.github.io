@@ -2,7 +2,9 @@
 
 [GitHub](https://github.com/AngelinaSen) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ) | [LinkedIn](https://www.linkedin.com/in/senchukova/)
 
-I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncertainty Quantification and Inverse Problems](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems) group at LUT University, I work on Bayesian inverse problems under the supervision of [Prof. Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen) and [Prof. Tapio Helin](https://www.lut.fi/fi/profiilit/tapio-helin). I have been mostly involved in the development of flexible priors, which are used to promote specific behavior in the reconstruction and enhance the reconstruction quality when the data is limited or corrupted by the measurement noise. 
+I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncertainty Quantification and Inverse Problems](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems) group at LUT University, I work on Bayesian inverse problems under the supervision of [Prof. Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen) and [Prof. Tapio Helin](https://www.lut.fi/fi/profiilit/tapio-helin). 
+
+I have been mostly involved in the development of flexible priors, which are used to promote specific behavior in reconstructions and enhance the reconstruction quality when the data is limited or corrupted by the measurement noise. 
 
 I am defending my doctoral thesis later this autumn (tentatively on October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.  
 
@@ -21,12 +23,14 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
   
   The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
 
+  __Tech Stack__: `python`, `PyTorch`, `SciPy`, `MCMC methods`
+
 * _Flexible Student's t priors based on Gaussian scale mixtures_ [preprint](https://arxiv.org/pdf/2403.13665)
   
-  The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions based on the data at hand. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by tuning the degrees of freedom parameter.
-  For the lower degrees of freedom (close to 1) Student's t distribution behaves as heavy-tailed distributions (e.g. Cauchy) allowing for capturing sharp features, while for the larger degrees of freedom, it behaves similarly to Gaussian distribution, that is, promotes smoothness.
+  The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by the degrees of freedom parameter.
+  By including the degrees of freedom parameter in the hierarchical formulation of the model, we were able to automatically tune it based on the available data. 
 
-* _X-ray imaging for sawmills_ [journal article](https://doi.org/10.1007/s10851-023-01167-6)
+* _X-ray imaging for sawmills_ [journal article](https://doi.org/10.1007/s10851-023-01167-6) [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)
   
   The main goal of the project was to improve the sawmill workflow using non-invasive sensing through the X-ray computed tomography of logs. I developed a method for estimating unknown parameters of fan-beam X-ray geometry using the calibration object.
 
