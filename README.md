@@ -6,7 +6,7 @@ I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncerta
 
 I have been mostly involved in the development of flexible priors, which are used to promote specific behavior in reconstructions and enhance the reconstruction quality when the data is limited or corrupted by noise. Applications include X-ray computed tomography, image deblurring, and signal deconvolution. 
 
-I am defending my doctoral thesis later this autumn (tentatively on October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.  
+I am defending my doctoral thesis titled _"Flexible priors for rough feature reconstruction in Bayesian inversion"_ this autumn (tentatively on October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.  
 
 
 ## Education 
