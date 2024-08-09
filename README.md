@@ -65,7 +65,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 - Visit & [Talk](https://www.sfb1294.de/events/event/two-prior-models-for-edge-preserving-bayesian-inversion) @ Collaborative Research Centre SFB 1294 on Data Assimilation, University of Potsdam, Potsdam, Germany. (_October 25-November 4_, 2022, with Prof. Dr. J. de Wiljes)
 
 ## Research Grants 
-- Awarded a research grant for doctoral studies from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR (_2022-2024_).
+- Awarded a **research grant for doctoral studies** from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR (_2022-2024_).
 
 ## Teaching Experience
 - **Teaching assistant** in _Functional Analysis_ (_2021_, with Tapio Helin), _Simulation and System Dynamics_ (_2020-2021_, with Heikki Haario), and _Probabilistic Simulation_ (_2022-2024_, with Tomás Soto) courses at LUT University.
