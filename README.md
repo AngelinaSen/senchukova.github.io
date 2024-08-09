@@ -2,9 +2,9 @@
 
 [GitHub](https://github.com/AngelinaSen) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ) | [LinkedIn](https://www.linkedin.com/in/senchukova/)
 
-I am a doctoral researcher based in Helsinki, Finland. As a part of the Uncertainty Quantification and Inverse Problems group at LUT University I work on Bayesian inverse problems under the supervision of Prof. Lassi Roininen and Prof. Tapio Helin. I have been mostly involved in the development of flexible priors ...
+I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncertainty Quantification and Inverse Problems](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems) group at LUT University, I work on Bayesian inverse problems under the supervision of [Prof. Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen) and [Prof. Tapio Helin](https://www.lut.fi/fi/profiilit/tapio-helin). I have been mostly involved in the development of flexible priors ...
 
-I am defending my doctoral thesis later this autumn (tentative date October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.  
+I am defending my doctoral thesis later this autumn (tentatively on October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.  
 
 
 ## Education 
