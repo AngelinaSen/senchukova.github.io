@@ -11,13 +11,16 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 ## Education 
 * **PhD _in Computational Science_** @ LUT University, Finland (_expected graduation: November 2024_)
-  Thesis: _Flexible priors for rough feature reconstruction in Bayesian inversion_   
+* 
+  Thesis: _"Flexible priors for rough feature reconstruction in Bayesian inversion"_   
 
 * **MSc _in Computational Engineering_** @ LUT University, Finland (_July 2020_)
-  Thesis: _Learned image reconstruction in X-ray computed tomography_ 
+
+  Thesis: _"Learned image reconstruction in X-ray computed tomography"_ 
 
 * **BSc _in Applied Mathematics and Informatics_** @ Southern Federal University, Russia (_June 2018_)
-  Thesis: _Boundedness and invertibility of convolution operators on the infinite dihedral group_ 
+
+  Thesis: _"Boundedness and invertibility of convolution operators on the infinite dihedral group"_ (in Russian)
 
 ## Work Experience 
 **Junior Researcher @ LUT University (_January 2021 - Present_)**
