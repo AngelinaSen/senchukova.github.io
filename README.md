@@ -21,12 +21,12 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
   
   The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
 
-* _Flexible Student's t priors based on Gaussian scale mixtures_
+* _Flexible Student's t priors based on Gaussian scale mixtures_ [preprint](https://arxiv.org/pdf/2403.13665)
   
   The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions based on the data at hand. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by tuning the degrees of freedom parameter.
   For the lower degrees of freedom (close to 1) Student's t distribution behaves as heavy-tailed distributions (e.g. Cauchy) allowing for capturing sharp features, while for the larger degrees of freedom, it behaves similarly to Gaussian distribution, that is, promotes smoothness.
 
-* _X-ray imaging for sawmills_
+* _X-ray imaging for sawmills_ [journal article](https://doi.org/10.1007/s10851-023-01167-6)
   
   The main goal of the project was to improve the sawmill workflow using non-invasive sensing through the X-ray computed tomography of logs. I developed a method for estimating unknown parameters of fan-beam X-ray geometry using the calibration object.
 
