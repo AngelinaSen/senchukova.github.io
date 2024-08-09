@@ -62,4 +62,4 @@ I am defending my doctoral thesis titled _"Flexible priors for rough feature rec
 - Awarded a research grant for doctoral studies from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR (_2022-2024_).
 
 ## Teaching Experience
-- Teaching assistant in Functional Analysis (_2021_, with Tapio Helin), Simulation and System Dynamics (_2020-2021_, with Heikki Haario), and Probabilistic Simulation (_2022-2024_, with Tomás Soto) courses at LUT University.
+- **Teaching assistant** in _Functional Analysis_ (_2021_, with Tapio Helin), _Simulation and System Dynamics_ (_2020-2021_, with Heikki Haario), and _Probabilistic Simulation_ (_2022-2024_, with Tomás Soto) courses at LUT University.
