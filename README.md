@@ -9,6 +9,7 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
 
 ## Education 
 --- | ---
+
 PhD in Computational Science | LUT University, Finland (_defending the doctoral thesis in October 2024_)
   
 MSc in Computational Engineering | LUT University, Finland (_July 2020_)
