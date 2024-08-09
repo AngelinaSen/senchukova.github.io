@@ -11,7 +11,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 ## Education 
 * **PhD _in Computational Science_** @ LUT University, Finland (_expected graduation: November 2024_)
-* 
+  
   Thesis: _"Flexible priors for rough feature reconstruction in Bayesian inversion"_   
 
 * **MSc _in Computational Engineering_** @ LUT University, Finland (_July 2020_)
