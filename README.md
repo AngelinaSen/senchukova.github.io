@@ -69,4 +69,4 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 - Awarded a **research grant for doctoral studies** from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR (_2022-2024_).
 
 ## Teaching Experience
-- **Teaching assistant** in _Functional Analysis_ (_2021_, with Tapio Helin), _Simulation and System Dynamics_ (_2020-2021_, with Heikki Haario), and _Probabilistic Simulation_ (_2022-2024_, with Tomás Soto) courses at LUT University.
+- **Teaching assistant** for the courses at LUT University:  _Functional Analysis_ (_2021_, with Tapio Helin), _Simulation and System Dynamics_ (_2020-2021_, with Heikki Haario), and _Probabilistic Simulation_ (_2022-2024_, with Tomás Soto).
