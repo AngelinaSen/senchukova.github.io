@@ -41,7 +41,7 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
 [4] V. Deundyak, D. Leonov, __A. Senchukova__. Symbolic calculation and invertibility of convolution operators on the infinite dihedral group. Mathematical Physics and Computer Modeling, 2020, 23(3). [doi](https://mp.jvolsu.com/index.php/en/archive-en/389-mathematical-physics-and-computer-simulation-2020-vol-23-no-3/mathematics-and-mechanics/929-deundyak-v-m-leonov-d-a-senchukova-a-a-symbolic-calculation-and-invertibility-of-convolution-operators-on-the-infinite-dihedral-group)
 
 ## Talks & Meetings
-- Participant/Poster @ Satellite workshop to International Society for Bayesian Analysis (ISBA) world meeting, Lugano, Switzerland (_June 25-28, 2024_)
+- Participant/Poster @ [Satellite workshop to ISBA world meeting](https://www.usi.ch/en/feeds/25999), Lugano, Switzerland (_June 25-28, 2024_)
 - [Talk](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78220) @ SIAM Conference on Uncertainty Quantification (UQ24), Trieste, Italy (_February 27-March 1, 2024_)
 - Participant @ [Autumn school in Bayesian Statistics](https://bayesatcirm.github.io/2023/), CIRM, Marseille, France (_October 30-November 3, 2023_)
 - Talk @ 11th Applied Inverse Problems Conference, Göttingen, Germany (_September 3-8, 2023_)
