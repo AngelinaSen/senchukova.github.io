@@ -10,11 +10,13 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
 
 
 ## Education 
-__PhD in Computational Science__ | LUT University, Finland (_expected graduation: November 2024_)
+__PhD in Computational Science__ @ LUT University, Finland (_expected graduation: November 2024_)
+------
 
-__MSc in Computational Engineering__ | LUT University, Finland (_July 2020_)
+__MSc in Computational Engineering__ @ LUT University, Finland (_July 2020_)
+------
 
-__BSc in Applied Mathematics and Informatics__ | Southern Federal University, Russia (_June 2018_)
+__BSc in Applied Mathematics and Informatics__ @ Southern Federal University, Russia (_June 2018_)
 
 ## Work experience 
 **Junior Researcher @ LUT University (_January 2021 - Present_)**
@@ -25,14 +27,14 @@ __BSc in Applied Mathematics and Informatics__ | Southern Federal University, Ru
 
   __Tech Stack__: `Python`, `PyTorch`, `SciPy`, `MCMC methods`
 
-* _Flexible Student's t priors based on Gaussian scale mixtures_ ([preprint](https://arxiv.org/pdf/2403.13665))
+* _Flexible Student's t priors based on Gaussian scale mixtures_ [[preprint](https://arxiv.org/pdf/2403.13665)]
   
   The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by the degrees of freedom parameter.
   By including the degrees of freedom parameter in the hierarchical formulation of the model, we were able to automatically tune it based on the available data.
 
   __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `NUTS`, `Gibbs sampler`
 
-* _X-ray imaging for sawmills_ ([journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation))
+* _X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
   
   The main goal of the project was to improve the sawmill workflow using non-invasive sensing through the X-ray computed tomography of logs. I developed a method for estimating unknown parameters of fan-beam X-ray geometry using the calibration object.
 
