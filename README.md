@@ -63,6 +63,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 - Poster presenter @ [SFB 1294 Spring School](https://www.sfb1294.de/events/event/spring-school-2023), Germany (_March 20-24, 2023_)
 - Participant @ [Bayes Comp 2023](https://bayescomp2023.com), Levi, Finland (_March 12-17, 2023_)
 - Visit & [Talk](https://www.sfb1294.de/events/event/two-prior-models-for-edge-preserving-bayesian-inversion) @ Collaborative Research Centre SFB 1294 on Data Assimilation, University of Potsdam, Potsdam, Germany. (_October 25-November 4_, 2022, with Prof. Dr. J. de Wiljes)
+- Online talk @ SIAM Conference on Uncertainty Quantification (UQ22), Atlanta, Georgia, U.S. (_April 12-15, 2022_)
 
 ## Research Grants 
 - Awarded a **research grant for doctoral studies** from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR (_2022-2024_).
