@@ -2,7 +2,7 @@
 
 [GitHub](https://github.com/AngelinaSen) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ) | [LinkedIn](https://www.linkedin.com/in/senchukova/)
 
-I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncertainty Quantification and Inverse Problems](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems) group at LUT University, I work on Bayesian inverse problems under the supervision of [Prof. Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen) and [Prof. Tapio Helin](https://www.lut.fi/fi/profiilit/tapio-helin). I have been mostly involved in the development of flexible priors ...
+I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncertainty Quantification and Inverse Problems](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems) group at LUT University, I work on Bayesian inverse problems under the supervision of [Prof. Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen) and [Prof. Tapio Helin](https://www.lut.fi/fi/profiilit/tapio-helin). I have been mostly involved in the development of flexible priors, which are used to promote specific behavior in the reconstruction and enhance the reconstruction quality when the data is limited or corrupted by the measurement noise. 
 
 I am defending my doctoral thesis later this autumn (tentatively on October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.  
 
@@ -51,4 +51,4 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
 - Visit & [Talk](https://www.sfb1294.de/events/event/two-prior-models-for-edge-preserving-bayesian-inversion) @ Collaborative Research Centre SFB 1294 on Data Assimilation, University of Potsdam, Potsdam, Germany. (_October 25-November 4_, 2022, with Prof. Dr. J. de Wiljes)
 
 ## Research grants 
-- Awarded a research grant for doctoral studies from [the Väisälä Fund of the Finnish Academy of Science and Letters](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) worth 70 500 EUR.
+- Awarded a research grant for doctoral studies from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR.
