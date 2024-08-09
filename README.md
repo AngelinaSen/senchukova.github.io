@@ -8,9 +8,9 @@ I am defending my doctoral thesis later this autumn (tentatively on October 4, 2
 
 
 ## Education 
-##### PhD in Computational Science LUT University, Finland (_expected graduation: November 2024_)
-##### MSc in Computational Engineering | LUT University, Finland (_July 2020_)
-##### BSc in Applied Mathematics and Informatics | Southern Federal University, Russia (_June 2018_)
+__PhD in Computational Science__ | LUT University, Finland (_expected graduation: November 2024_)
+__MSc in Computational Engineering__ | LUT University, Finland (_July 2020_)
+__BSc in Applied Mathematics and Informatics__ | Southern Federal University, Russia (_June 2018_)
 
 ## Work experience 
 **Junior Researcher @ LUT University (_January 2021 - Present_)**
