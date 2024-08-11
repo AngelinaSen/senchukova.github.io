@@ -16,7 +16,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 * **MSc _in Computational Engineering_** @ LUT University, Finland (_July 2020_)
 
-  Thesis: _"Learned image reconstruction in X-ray computed tomography"_ 
+  Thesis: [_"Learned image reconstruction in X-ray computed tomography"_](https://urn.fi/URN:NBN:fi-fe2020062445578)
 
 * **BSc _in Applied Mathematics and Informatics_** @ Southern Federal University, Russia (_June 2018_)
 
@@ -29,20 +29,20 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
   
   The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
 
-  __Tech Stack__: `Python`, `PyTorch`, `SciPy`, `MCMC methods`
+  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`
 
 * _Flexible Student's t priors based on Gaussian scale mixtures_ [[preprint](https://arxiv.org/pdf/2403.13665)]
   
   The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by the degrees of freedom parameter.
   By including the degrees of freedom parameter in the hierarchical formulation of the model, we were able to automatically tune it based on the available data.
 
-  __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `NUTS`, `Gibbs sampler`
+  __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `Linux`, `NUTS`, `Gibbs sampler`
 
 * _X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
   
   The main goal of the project was to improve the sawmill workflow using non-invasive sensing through the X-ray computed tomography of logs. I developed a method for estimating unknown parameters of fan-beam X-ray geometry using the calibration object.
 
-  __Tech Stack__: `OpenCV Python library`, `ASTRA Tomography Toolbox`, `SciPy`
+  __Tech Stack__: `Linux`, `OpenCV Python library`, `ASTRA Tomography Toolbox`, `SciPy`, `Matlab`
 
 
 ## Publications 
@@ -63,10 +63,16 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 - Poster presenter @ [SFB 1294 Spring School](https://www.sfb1294.de/events/event/spring-school-2023), Germany (_March 20-24, 2023_)
 - Participant @ [Bayes Comp 2023](https://bayescomp2023.com), Levi, Finland (_March 12-17, 2023_)
 - Visit & [Talk](https://www.sfb1294.de/events/event/two-prior-models-for-edge-preserving-bayesian-inversion) @ Collaborative Research Centre SFB 1294 on Data Assimilation, University of Potsdam, Potsdam, Germany. (_October 25-November 4_, 2022, with Prof. Dr. J. de Wiljes)
+- Participant @ [DTU Workshop: Imaging With Uncertainty Quantification](https://people.compute.dtu.dk/pcha/CUQI/IUQworkshop.html), Helsingør, Denmark (_September 26-29, 2022_)
+- Participant @ Summer School on Applied Harmonic Analysis and Machine Learning, Genova, Italy (_September 5-9, 2022_)
 - Online talk @ SIAM Conference on Uncertainty Quantification (UQ22), Atlanta, Georgia, U.S. (_April 12-15, 2022_)
+- Visit @ KTH Royal Institute of Technology, Stockholm, Sweden (_October 5 - November 2, 2021_, with Prof. Ozan Öktem)
 
 ## Research Grants 
 - Awarded a **research grant for doctoral studies** from [the Väisälä Fund](https://acadsci.fi/en/about-the-academy/funds-and-foundations/vaisala-foundation/) of the Finnish Academy of Science and Letters worth 70 500 EUR (_2022-2024_).
 
 ## Teaching Experience
-- **Teaching assistant** for the courses at LUT University:  _Functional Analysis_ (_2021_, with Tapio Helin), _Simulation and System Dynamics_ (_2020-2021_, with Heikki Haario), and _Probabilistic Simulation_ (_2022-2024_, with Tomás Soto).
+**Teaching assistant** for the courses at LUT University:  
+* _Functional Analysis_ (_2021_, with Tapio Helin)
+* _Simulation and System Dynamics_ (_2020-2021_, with Heikki Haario)
+* _Probabilistic Simulation_ (_2022-2024_, with Tomás Soto)
