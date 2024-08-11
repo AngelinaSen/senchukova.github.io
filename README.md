@@ -20,7 +20,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 * **BSc _in Applied Mathematics and Informatics_** @ Southern Federal University, Russia (_June 2018_)
 
-  Thesis: _"Boundedness and invertibility of convolution operators on the infinite dihedral group"_ (in Russian)
+  Thesis: _"Boundedness and invertibility of convolution operators on the infinite dihedral group"_
 
 ## Work Experience 
 **Junior Researcher @ LUT University (_January 2021 - Present_)**
