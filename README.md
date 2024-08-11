@@ -46,13 +46,13 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 
 ## Publications 
-[1] __A. Senchukova__, F. Uribe, L. Roininen. Bayesian inversion with Student's t priors based on Gaussian scale mixtures. arXiv [preprint](https://arxiv.org/pdf/2403.13665), 2024.
+[1] __A. Senchukova__, F. Uribe, L. Roininen. [Bayesian inversion with Student's t priors based on Gaussian scale mixtures](https://arxiv.org/pdf/2403.13665). arXiv preprint, 2024.
 
-[2] __A. Senchukova__, J. Suuronen, J. Heikkinen, L. Roininen. Geometry parameter estimation for sparse X-ray log imaging. Journal of Mathematical Imaging and Vision, 2024, 66(2): 154-166. [doi](https://doi.org/10.1007/s10851-023-01167-6)
+[2] __A. Senchukova__, J. Suuronen, J. Heikkinen, L. Roininen. [Geometry parameter estimation for sparse X-ray log imaging](https://doi.org/10.1007/s10851-023-01167-6). Journal of Mathematical Imaging and Vision, 2024, 66(2): 154-166.
 
-[3] S. Springer, A. Glielmo, __A. Senchukova__, T. Kauppi, J. Suuronen, L. Roininen, H. Haario, A. Hauptmann. Reconstruction and segmentation from sparse sequential X-ray measurements of wood logs. Applied Mathematics for Modern Challenges, 2023, 1(1): 1-20. [doi](https://doi.org/10.3934/ammc.2023002)
+[3] S. Springer, A. Glielmo, __A. Senchukova__, T. Kauppi, J. Suuronen, L. Roininen, H. Haario, A. Hauptmann. [Reconstruction and segmentation from sparse sequential X-ray measurements of wood logs](https://doi.org/10.3934/ammc.2023002). Applied Mathematics for Modern Challenges, 2023, 1(1): 1-20.
 
-[4] V. Deundyak, D. Leonov, __A. Senchukova__. Symbolic calculation and invertibility of convolution operators on the infinite dihedral group. Mathematical Physics and Computer Modeling, 2020, 23(3). [doi](https://mp.jvolsu.com/index.php/en/archive-en/389-mathematical-physics-and-computer-simulation-2020-vol-23-no-3/mathematics-and-mechanics/929-deundyak-v-m-leonov-d-a-senchukova-a-a-symbolic-calculation-and-invertibility-of-convolution-operators-on-the-infinite-dihedral-group)
+[4] V. Deundyak, D. Leonov, __A. Senchukova__. [Symbolic calculation and invertibility of convolution operators on the infinite dihedral group](https://mp.jvolsu.com/index.php/en/archive-en/389-mathematical-physics-and-computer-simulation-2020-vol-23-no-3/mathematics-and-mechanics/929-deundyak-v-m-leonov-d-a-senchukova-a-a-symbolic-calculation-and-invertibility-of-convolution-operators-on-the-infinite-dihedral-group). Mathematical Physics and Computer Modeling, 2020, 23(3).
 
 ## Talks & Meetings
 - Poster presenter @ [Satellite workshop to ISBA world meeting](https://www.usi.ch/en/feeds/25999), Lugano, Switzerland (_June 25-28, 2024_)
