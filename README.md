@@ -25,18 +25,18 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 ## Work Experience 
 **Junior Researcher @ LUT University (_January 2021 - Present_)**
 
-* _Edge-preserving inversion with Bayesian neural networks priors_
-  
-  The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
-
-  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`
-
 * _Flexible Student's t priors based on Gaussian scale mixtures_ [[preprint](https://arxiv.org/pdf/2403.13665)]
   
   The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by the degrees of freedom parameter.
   By including the degrees of freedom parameter in the hierarchical formulation of the model, we were able to automatically tune it based on the available data.
 
   __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `Linux`, `NUTS`, `Gibbs sampler`
+
+* _Edge-preserving inversion with Bayesian neural networks priors_
+  
+  The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
+
+  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`
 
 * _Sparse X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
   
