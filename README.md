@@ -37,7 +37,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
   For this research project, I implemented priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution. The advantage of this approach (as compared to discretization-based priors) is that the result does not depend on the size of the discretization mesh used for the problem. I applied the suggested priors to several signal deconvolution problems and explored the methods to improve the posterior sampling, as the posterior distribution has a very complicated landscape being multidimensional and multimodal. 
 
-  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`. `NUTS`, `preconditioned Crank–Nicolson sampler`
+  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`, `NUTS`, `preconditioned Crank–Nicolson sampler`
 
 * _Sparse X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
   
