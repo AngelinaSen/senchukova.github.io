@@ -38,9 +38,9 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
   __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `Linux`, `NUTS`, `Gibbs sampler`
 
-* _X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
+* _Sparse X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
   
-  The main goal of the project was to improve the sawmill workflow using non-invasive sensing through the X-ray computed tomography of logs. I developed a method for estimating unknown parameters of fan-beam X-ray geometry using the calibration object.
+  This project was done in collaboration with [Finnos Oy](https://www.finnos.fi/en/), a Finnish company developing X-ray scanners applied in the sawmill industry for wood log sorting. As a part of the project, I was working on reconstructions of the inner structure of the wood logs from their X-ray measurements provided by Finnos. As the geometry of the scanning equipment was partially unknown, I developed a method for estimating unknown parameters of fan-beam X-ray geometry using the calibration object. After identifying the geometry parameters, I applied Bayesian inversion with Cauchy difference priors to obtain reconstructions of wood logs. As only a limited amount of X-ray data was available, the use of Cauchy priors allowed for better preservation of sharp features in the reconstructions compared to the traditional reconstruction techniques. The reconstructions were further used to detect log features, such as tree knots and rotten parts, to optimize the strategy used for sawing logs into lumber.
 
   __Tech Stack__: `Linux`, `OpenCV Python library`, `ASTRA Tomography Toolbox`, `SciPy`, `Matlab`
 
