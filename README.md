@@ -34,8 +34,8 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
   __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `Linux`, `NUTS`, `Gibbs sampler`
 
 * _Solving inverse problems with Bayesian neural networks priors_
-  
-  The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
+
+  For this research project, I implemented priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution. The advantage of this approach (as compared to discretization-based priors) is that the result does not depend on the size of the discretization mesh used for the problem. I applied the suggested priors to several signal deconvolution problems and explored the methods to improve the posterior sampling, as the posterior distribution has a very complicated landscape being multidimensional and multimodal. 
 
   __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`. `NUTS`, `preconditioned Crank–Nicolson sampler`
 
