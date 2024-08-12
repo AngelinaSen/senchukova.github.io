@@ -2,13 +2,15 @@
 
 [GitHub](https://github.com/AngelinaSen) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=sghAn8cAAAAJ) | [LinkedIn](https://www.linkedin.com/in/senchukova/)
 
+### About Me
+
 I am a doctoral researcher based in Helsinki, Finland. As a part of the [Uncertainty Quantification and Inverse Problems](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems) group at LUT University, I work on Bayesian inverse problems under the supervision of [Prof. Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen) and [Prof. Tapio Helin](https://www.lut.fi/fi/profiilit/tapio-helin). 
 
 My research evolves around the development of flexible priors for inverse problems, which are used to promote specific behavior in reconstructions and enhance the reconstruction quality in cases when the data is limited or corrupted by noise. Applications include industrial X-ray computed tomography, image deblurring, and signal processing. 
 
 I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) and seeking full-time employment in the Helsinki metropolitan area. My professional interests include data science, machine learning, and software development.
 
-## My Research: Bayesian Inverse Problems
+### About my Research: Bayesian Inverse Problems
 
 Solving inverse problems, we aim at reconstructing a quantity of interest from its noisy indirect measurements. A wide-known example is X-ray computed tomography used for non-invasive medical diagnostics, where the goal is to obtain an image of the patient's  internal organs using the intensity attenuation of X-ray beams passing through the body. Inverse problems are tricky to solve as the solution may not exist, may not be unique, or may not depend continuously on the measurement data (this property is called _ill-posedness_). The Bayesian approach provides a way to obtain stable solutions to inverse problems by treating all the unknowns as random variables and encoding our prior knowledge of the unknown in the form of the prior distribution. Within the Bayesian framework, the solution is formulated as a posterior distribution rather than a single estimate, which also allows for quantifying the uncertainty, that is, estimating how reliable the obtained result is. 
 
