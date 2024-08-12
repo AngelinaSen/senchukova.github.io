@@ -29,16 +29,15 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 * _Flexible Student's t priors based on Gaussian scale mixtures_ [[preprint](https://arxiv.org/pdf/2403.13665)]
   
-  The project aimed at constructing priors capable of recovering both sharp or smooth features in the reconstructions. To this end, we combined the Markov random field structure and Student's t distribution, whose behavior can be controlled by the degrees of freedom parameter.
-  By including the degrees of freedom parameter in the hierarchical formulation of the model, we were able to automatically tune it based on the available data.
-
+  Within the project, I developed a class of priors combining the Markov random field structure with Student's _t_ distribution. The prior demonstrates the flexibility and can be used for reconstructing both sharp (piecewise constant) and smooth features in the solution. This flexibility is achieved by treating the degrees of freedom parameter of the _t_ distribution as a hyperparameter and learning it from the data. Hence, the method eliminates the complicated hand-tuning of the degrees of freedom parameter and allows its automatic inference. To simplify the characterization of the multimodal posterior distribution, I employed the Gaussian scale mixture representation of Student's _t_ distribution, which allowed for the application of the efficient Gibbs sampler for obtaining the solution. The priors were tested numerically for smooth and sharp data and showed good performance when compared with the other popular priors used for inverse problems, such as Laplace and Cauchy difference priors. 
+  
   __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `Linux`, `NUTS`, `Gibbs sampler`
 
-* _Edge-preserving inversion with Bayesian neural networks priors_
+* _Solving inverse problems with Bayesian neural networks priors_
   
   The project involved developing priors for recovering sharp features in inverse problems such as X-ray computed tomography, where the objects of interest usually have a blocky structure. We suggested building the priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution.
 
-  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`
+  __Tech Stack__: `Linux`, `Python`, `PyTorch`, `SciPy`, `MCMC methods`. `NUTS`, `preconditioned Crank–Nicolson sampler`
 
 * _Sparse X-ray imaging for sawmills_ [[journal article](https://doi.org/10.1007/s10851-023-01167-6), [GitHub repo](https://github.com/AngelinaSen/geometry_parameter_estimation)]
   
@@ -54,7 +53,7 @@ I am defending my doctoral thesis this autumn (tentatively on October 4, 2024) a
 
 [3] S. Springer, A. Glielmo, __A. Senchukova__, T. Kauppi, J. Suuronen, L. Roininen, H. Haario, A. Hauptmann. [Reconstruction and segmentation from sparse sequential X-ray measurements of wood logs](https://doi.org/10.3934/ammc.2023002). Applied Mathematics for Modern Challenges, 2023, 1(1): 1-20.
 
-[4] V. Deundyak, D. Leonov, __A. Senchukova__. [Symbolic calculation and invertibility of convolution operators on the infinite dihedral group](https://mp.jvolsu.com/index.php/en/archive-en/389-mathematical-physics-and-computer-simulation-2020-vol-23-no-3/mathematics-and-mechanics/929-deundyak-v-m-leonov-d-a-senchukova-a-a-symbolic-calculation-and-invertibility-of-convolution-operators-on-the-infinite-dihedral-group). Mathematical Physics and Computer Modeling, 2020, 23(3).
+[4] V. Deundyak, D. Leonov, __A. Senchukova__. [Symbolic calculation and invertibility of convolution operators on the infinite dihedral group](https://mp.jvolsu.com/index.php/en/archive-en/389-mathematical-physics-and-computer-simulation-2020-vol-23-no-3/mathematics-and-mechanics/929-deundyak-v-m-leonov-d-a-senchukova-a-a-symbolic-calculation-and-invertibility-of-convolution-operators-on-the-infinite-dihedral-group). Mathematical Physics and Computer Modeling, 2020, 23(3): 60-75.
 
 ## Talks & Meetings
 - Poster presenter @ [Satellite workshop to ISBA world meeting](https://www.usi.ch/en/feeds/25999), Lugano, Switzerland (_June 25 - 28, 2024_)
