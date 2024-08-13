@@ -36,7 +36,7 @@ Solving inverse problems, we aim at reconstructing a quantity of interest from i
   
   __Tech Stack__: `Python`, `NumPy`, `Pandas`, `scikit-sparse`, `arviz`, `Linux`, `NUTS`, `Gibbs sampler`
 
-* _Solving inverse problems with Bayesian neural networks priors_
+* _Solving inverse problems with Bayesian neural networks priors_ [[GitHub repo](https://github.com/AngelinaSen/bnn_priors)]
 
   For this research project, I implemented priors in a functional space-based manner using probabilistic (Bayesian) neural networks with parameters drawn from the Student's _t_ distribution. The advantage of this approach (as compared to discretization-based priors) is that the result does not depend on the size of the discretization mesh used for the problem. I applied the suggested priors to several signal deconvolution problems and explored the methods to improve the posterior sampling, as the posterior distribution has a very complicated landscape being multidimensional and multimodal. 
 
