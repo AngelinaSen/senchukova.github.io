@@ -17,7 +17,7 @@ Solving inverse problems, we aim at reconstructing a quantity of interest from i
 ## Education 
 * **PhD _in Computational Science_** @ LUT University, Finland (_expected graduation: November 2024_)
   
-  Thesis: _"Flexible priors for rough feature reconstruction in Bayesian inversion"_   
+  Thesis: [_"Flexible priors for rough feature reconstruction in Bayesian inversion"_  ](https://lutpub.lut.fi/handle/10024/168218) 
 
 * **MSc _in Computational Engineering_** @ LUT University, Finland (_July 2020_)
 
@@ -50,7 +50,7 @@ Solving inverse problems, we aim at reconstructing a quantity of interest from i
 
 
 ## Publications 
-[1] __A. Senchukova__, F. Uribe, L. Roininen. [Bayesian inversion with Student's t priors based on Gaussian scale mixtures](https://arxiv.org/pdf/2403.13665). arXiv preprint, 2024.
+[1] __A. Senchukova__, F. Uribe, L. Roininen. [Bayesian inversion with Student's t priors based on Gaussian scale mixtures](https://iopscience.iop.org/article/10.1088/1361-6420/ad75af). Inverse Problems, 2024, 40(10): 105013.
 
 [2] __A. Senchukova__, J. Suuronen, J. Heikkinen, L. Roininen. [Geometry parameter estimation for sparse X-ray log imaging](https://doi.org/10.1007/s10851-023-01167-6). Journal of Mathematical Imaging and Vision, 2024, 66(2): 154-166.
 
